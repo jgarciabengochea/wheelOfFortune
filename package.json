@@ -1,0 +1,23 @@
+{
+  "name": "wheeloffortune",
+  "version": "1.0.0",
+  "description": "A random decision maker!",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgarciabengochea/wheelOfFortune.git"
+  },
+  "author": "Javi Garcia-Bengochea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgarciabengochea/wheelOfFortune/issues"
+  },
+  "homepage": "https://github.com/jgarciabengochea/wheelOfFortune#readme",
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
