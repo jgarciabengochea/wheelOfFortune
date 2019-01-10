@@ -1,1 +1,8 @@
+# Node Modules
 /node_modules/
+
+# Desktop Services Store
+/.DS_Store
+
+# Bundle
+/public/dist
